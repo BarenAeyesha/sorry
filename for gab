@@ -76,8 +76,7 @@
 
 <div class="card">
 
-    <!-- Make sure image(10).png is in the same folder as this HTML file -->
-    <img src="c:\Users\user\Downloads\download.png" alt="Sad Cat" class="cat">
+    <img src="dowload.png" alt="Sad Cat" class="cat">
 
     <h1>Hii Gab! 💙</h1>
 
